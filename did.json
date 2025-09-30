@@ -8,7 +8,7 @@
       "id": "did:web:sneha-kolimi.github.io#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:sneha-kolimi.github.io",
-      "publicKeyBase58": "CztgHjuK96i9Fv4WiPe92sVa2fLVZ17Nyzaox3Ny9miH"
+      "publicKeyBase58": "CWCFDWHCmC7zqBpADHQWhsAySZhbuVPYkCdFHdiYdNAW"
     }
   ],
   "authentication": [
